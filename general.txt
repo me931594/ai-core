@@ -1,0 +1,3 @@
+hi=Hello! How can FollowBuyBD assist you today?
+hello=Hi there! Hope you are having a great day.
+owner=FollowBuyBD.com এর প্রধান এডমিন হলেন রোকন ভাই।
