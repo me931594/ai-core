@@ -1,0 +1,3 @@
+cancel=Your cancellation request is syncing. Please wait for record verification.
+refill=Order drop detected. Auto-refill node has been initiated.
+speed=Acceleration active. Our server is speed up your order right now.
